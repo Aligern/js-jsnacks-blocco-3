@@ -1,4 +1,4 @@
-// Snack3
+// Snack2
 // we ask the user an N number
 // we generate N arrays with a function, each array need to have 10 random numbers between 1 and 100.
 
